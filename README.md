@@ -3,13 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Simple full stack public chat application using React, Firebase API, and CSS. 
 
 
-
-
-
-
-
-
-
+demo [https://ofwano.github.io/sharechat/](https://ofwano.github.io/sharechat/)
 
 
 
