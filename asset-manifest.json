@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sharechat/static/css/main.3317097f.chunk.css",
-    "main.js": "/sharechat/static/js/main.37be0944.chunk.js",
-    "main.js.map": "/sharechat/static/js/main.37be0944.chunk.js.map",
+    "main.js": "/sharechat/static/js/main.760b0173.chunk.js",
+    "main.js.map": "/sharechat/static/js/main.760b0173.chunk.js.map",
     "runtime-main.js": "/sharechat/static/js/runtime-main.00abdce6.js",
     "runtime-main.js.map": "/sharechat/static/js/runtime-main.00abdce6.js.map",
-    "static/js/2.221d4a5d.chunk.js": "/sharechat/static/js/2.221d4a5d.chunk.js",
-    "static/js/2.221d4a5d.chunk.js.map": "/sharechat/static/js/2.221d4a5d.chunk.js.map",
+    "static/js/2.0954b802.chunk.js": "/sharechat/static/js/2.0954b802.chunk.js",
+    "static/js/2.0954b802.chunk.js.map": "/sharechat/static/js/2.0954b802.chunk.js.map",
     "index.html": "/sharechat/index.html",
-    "precache-manifest.79c11649eb69bbc7e9e25c6aaa21b12c.js": "/sharechat/precache-manifest.79c11649eb69bbc7e9e25c6aaa21b12c.js",
+    "precache-manifest.0ee021f00b4b4f7c55a2c74106bd7d30.js": "/sharechat/precache-manifest.0ee021f00b4b4f7c55a2c74106bd7d30.js",
     "service-worker.js": "/sharechat/service-worker.js",
     "static/css/main.3317097f.chunk.css.map": "/sharechat/static/css/main.3317097f.chunk.css.map",
-    "static/js/2.221d4a5d.chunk.js.LICENSE.txt": "/sharechat/static/js/2.221d4a5d.chunk.js.LICENSE.txt"
+    "static/js/2.0954b802.chunk.js.LICENSE.txt": "/sharechat/static/js/2.0954b802.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00abdce6.js",
-    "static/js/2.221d4a5d.chunk.js",
+    "static/js/2.0954b802.chunk.js",
     "static/css/main.3317097f.chunk.css",
-    "static/js/main.37be0944.chunk.js"
+    "static/js/main.760b0173.chunk.js"
   ]
 }
